@@ -1,0 +1,88 @@
+[[docs]]
+  name = "Get Started"
+  weight = 10 
+  identifier = "getstarted"
+  url = "/docs/getstarted/"
+
+[[docs]]
+  name = "Setting up a new unit"
+  weight = 20
+  identifier = "setting_up"
+  url = "/docs/setting_up/"
+
+[[docs]]
+  name = "Interacting with learners"
+  weight = 40 
+  identifier = "interacting"
+  url = "/docs/interact/"
+
+[[docs]]
+  name = "Assess and grades"
+  weight = 60
+  identifier = "assess_grades"
+  url = "/docs/educator/assess_grade/"
+
+# [[docs]]
+#   name = "Lorem"
+#   weight = 70
+#   identifier = "lorem"
+#   url = "/docs/lorem/"
+
+[[guide]]
+  name = "Lorem"
+  weight = 10
+  identifier = "lorem"
+  url = "/guide/lorem/"
+
+[[tutorial]]
+  name = "Lorem"
+  weight = 10
+  identifier = "lorem"
+  url = "/tutorial/lorem/"
+
+[[main]]
+  name = "Student"
+  url = "/docs/student/introduction/"
+# url = "/docs/1.0/student/introduction"
+  weight = 10
+
+[[main]]
+  name = "Educator"
+  url = "/docs/getstarted/introduction/"
+# url = "/docs/1.0/educator/introduction/"
+  weight = 10
+
+# [[main]]
+#   name = "Tutorial"
+#   url = "/tutorial/lorem/ipsum/"
+#   weight = 15
+
+[[main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
+
+[[main]]
+  name = "Get Started"
+  weight = 30
+  identifier = "get-started"
+  url = "/docs/getstarted/introduction/"
+
+[[main]]
+  name = "Quick Start"
+  weight = 40
+  identifier = "quick-start"
+  url = "/docs/getstarted/quick-start/"
+  parent = "get-started"
+
+[[main]]
+  name = "Tutorial"
+  weight = 50
+  identifier = "tutorial"
+  url = "https://getdoks.org/tutorial/introduction/"
+  parent = "get-started"
+
+# [[footer]]
+#   name = "Privacy"
+#   url = "/privacy-policy/"
+#   weight = 10
