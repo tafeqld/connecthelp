@@ -1,3 +1,2 @@
 canonifyURLs = false
-baseURL = https://spiffy-speculoos-df70b2.netlify.app
-builddrafts = true
+baseURL = "https://spiffy-speculoos-df70b2.netlify.app"
