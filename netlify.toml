@@ -3,7 +3,6 @@
   functions = "functions"
   command = "hugo"
   context = "production"
-  publish = "public"
 
 [build.environment]
   NODE_VERSION = "16.16.0"
