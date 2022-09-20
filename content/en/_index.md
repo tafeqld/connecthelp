@@ -1,7 +1,7 @@
 ---
-title : "Modern Documentation Theme is it?"
-description: "Doks is a Hugo theme for building secure hellow boy, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure really, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title : "Connect Help"
+description: "description"
+lead: "Dummy text"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false

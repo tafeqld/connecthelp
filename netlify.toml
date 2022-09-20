@@ -1,6 +1,9 @@
 [build]
   publish = "public"
   functions = "functions"
+  command = "hugo"
+  context = "production"
+  publish = "public"
 
 [build.environment]
   NODE_VERSION = "16.16.0"
@@ -8,6 +11,10 @@
 
 [context.production]
   command = "npm run build"
+
+[context.production.environment]
+  HUGO_VERSION = "0.78.0"
+  HUGO_ENV = "production"
 
 [context.deploy-preview]
   command = "npm run build -- -b $DEPLOY_PRIME_URL"
