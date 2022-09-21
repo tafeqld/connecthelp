@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setting up a unit offering on Connect Help</title>
+    <link>localhost/docs/setting_up/</link>
+    <description>Recent content in Setting up a unit offering on Connect Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="localhost/docs/setting_up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upload and organise unit files</title>
+      <link>localhost/docs/setting_up/upload_org/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>localhost/docs/setting_up/upload_org/</guid>
+      <description>Setting up #The Manage Files tool is a file management system for your unit. You can use this tool to organise and upload files associated with your unit offering. We recommend that you organise your files into folders, creating a folder for each unit, module, or topic of content as appropriate.
+Manage Files enables you to select and upload files from your computer to Connect. You can upload most file types to a content directory in Manage Files, but only files with specific extensions can be used as content topics.</description>
+    </item>
+    
+  </channel>
+</rss>

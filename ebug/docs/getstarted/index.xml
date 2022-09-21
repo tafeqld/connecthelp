@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get started on Connect Help</title>
+    <link>localhost/docs/getstarted/</link>
+    <description>Recent content in Get started on Connect Help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="localhost/docs/getstarted/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>localhost/docs/getstarted/introduction/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>localhost/docs/getstarted/introduction/</guid>
+      <description>A reference guide for Educators using Connect at TAFE Queensland.
+The Educator help has been split into 3 areas;
+Setting up and delivering a unit Interacting and engaging with learners Assessing and grading learners Before you get started #👉 You have access to a sandbox if you would like to experiment with any of the items in a safe enviornment. Setting up and delivering a unit offering #A high-quality online experience for students begins with a unit that is organised, logical, and clearly defines its own learning outcomes.</description>
+    </item>
+    
+  </channel>
+</rss>
